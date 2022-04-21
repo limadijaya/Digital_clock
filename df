@@ -1,0 +1,23 @@
+[33mcommit 1eef78a6092226e4d017fccc391eae5b079ee863[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: limadijaya <limasuhendra@gmail.com>
+Date:   Thu Apr 21 23:26:06 2022 +0700
+
+    removed welcome message
+
+[33mcommit 58bea8e55d190c1b62134018005c094899ba08c1[m
+Author: limadijaya <limasuhendra@gmail.com>
+Date:   Thu Apr 21 23:24:28 2022 +0700
+
+    added a welcome message
+
+[33mcommit e675f49b3d87655b251fb98f050a9e3909b7423f[m
+Author: limadijaya <limasuhendra@gmail.com>
+Date:   Thu Apr 21 23:17:01 2022 +0700
+
+    added a new digital clock program
+
+[33mcommit 8d08559e9f7e631dad421f298a858fb3b333576a[m
+Author: limadijaya <limasuhendra@gmail.com>
+Date:   Thu Apr 21 23:08:06 2022 +0700
+
+    added 2 new dummy files
